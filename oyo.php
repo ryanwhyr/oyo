@@ -7,7 +7,6 @@ $nama=array(
 'Mala',
 'Mansur',
 'Vanya',
-'Lestari',
 'Edi',
 'Rajasa',
 'Unjani',
